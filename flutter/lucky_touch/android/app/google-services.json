@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984873928936",
+    "project_id": "luckytouch-c2174",
+    "storage_bucket": "luckytouch-c2174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984873928936:android:44f19c289c7a23caf6215d",
+        "android_client_info": {
+          "package_name": "com.example.lucky_touch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984873928936-uvr1cs6e1lje5jipueshiebukdvgbijk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucky_touch",
+            "certificate_hash": "8b4cf7fea894a8d7e2d8caf42f74392ae1844a2a"
+          }
+        },
+        {
+          "client_id": "984873928936-8gg0uq7a1ges54e00haijmdu6c8gm7nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqjQD9Cs0fYPuvtuhkDwirqZq2ss7BTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984873928936-8gg0uq7a1ges54e00haijmdu6c8gm7nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
