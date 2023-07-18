@@ -10,7 +10,7 @@ I have used node.js for a backend server and flutter for an app build but the bi
 
 ## Screenshots
 
-![App Screenshot](https://danncode.com/portfolio/images/lucky_touch/1.png)
+![App Screenshot](https://danncode.com/portfolio/images/lucky_touch/1.png =200)
 ![App Screenshot](https://danncode.com/portfolio/images/lucky_touch/2.png)
 ![App Screenshot](https://danncode.com/portfolio/images/lucky_touch/3.png)
 ![App Screenshot](https://danncode.com/portfolio/images/lucky_touch/4.png)
