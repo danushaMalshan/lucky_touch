@@ -1,2 +1,0 @@
-# lucky_touch
- 
